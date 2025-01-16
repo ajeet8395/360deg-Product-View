@@ -1,19 +1,26 @@
-Steps to Start a Vite + React Project
+# Project Setup Guide
 
-1. Create a New Project
+## Prerequisites
+- Node.js (latest LTS version)
+- npm or yarn
 
-Run the following commands to create a new Vite project:
+## Getting Started
 
-# Use npm
-npm create vite@latest my-react-app --template react
+Install dependencies:
+```bash
+npm install
+```
 
-# Or use Yarn
-yarn create vite my-react-app --template react
+Start development server:
+```bash
+npm run dev
+```
 
-# Or use pnpm
-pnpm create vite my-react-app --template react
-
-Replace my-react-app with your desired project name.
+## Additional Dependencies
+Install required packages:
+```bash
+npm install react-360-view sirv
+```
 
 ## There are three ways by using them we can create Image 360deg rotation view
 
