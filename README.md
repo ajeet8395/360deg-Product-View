@@ -25,7 +25,7 @@ npm install react-360-view sirv
 ## There are three ways by using them we can create Image 360deg rotation view
 
 1. Sirv is the best choice if:
-## Sirv is a cloud-based solution for hosting and rendering interactive spin views of products. It provides a seamless and high-performance way to enhance user engagement by allowing users to explore products interactively.
+   Sirv is a cloud-based solution for hosting and rendering interactive spin views of products. It provides a seamless and high-performance way to enhance user engagement by allowing users to explore products interactively.
 
 - You want a production-ready solution quickly
 - You need reliable performance across devices
